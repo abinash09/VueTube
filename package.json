@@ -1,0 +1,28 @@
+{
+  "name": "vuetube",
+  "version": "1.0.0",
+  "description": "This is a youtube search and play using VueJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinash09/VueTube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinash09/VueTube/issues"
+  },
+  "homepage": "https://github.com/abinash09/VueTube#readme",
+  "dependencies": {
+    "laravel-elixir": "^6.0.0-11",
+    "laravel-elixir-vue": "^0.1.4",
+    "laravel-elixir-webpack-official": "^1.0.2",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3",
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1"
+  }
+}
